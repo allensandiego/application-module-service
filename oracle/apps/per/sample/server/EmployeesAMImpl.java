@@ -38,8 +38,8 @@ public class EmployeesAMImpl extends OAApplicationModuleImpl {
      * This method returns Employee Info
      *
      * @param pEmployeeNumber Employee Number of the Employee
-     * @rep:paraminfo {@rep:innertype oracle.apps.per.sample.beans.EmployeeInfo}
      * @return EmployeeInfo
+     * @rep:paraminfo {@rep:innertype oracle.apps.per.sample.beans.EmployeeInfo}
      * @rep:scope public
      * @rep:displayname Get Employees
      * @rep:httpverb get
